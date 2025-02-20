@@ -17,3 +17,9 @@ This dataset was taken from [Standard University](https://web.stanford.edu/class
 ## Target
 - **Survived**: Whether passenger survived or not.
 
+## Installation
+This project was executed on python 3.7. In order to run this project, you need the python pre installed. To install the libraries:
+
+```bash
+pip install -r requirements.txt
+```
